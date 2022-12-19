@@ -1,5 +1,5 @@
 <h1>college-proctor</h1>
-<hr><p><strong>College Proctor</strong> is a one-step solution for every student, teacher and proctor that automates every step in any type of assignment from creating and taking a test to automated results and evaluation.</p><h2>General Information</h2>
+<hr><p><strong>College Proctor</strong> is a one-step solution for every student, teacher and proctor that automates every step in any type of assessment from creating and taking a test to automated results and evaluation.</p><h2>General Information</h2>
 <hr><ul>
 <li>A React.js-Based app</li>
 </ul><ul>
