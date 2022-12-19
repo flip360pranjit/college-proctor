@@ -1,3 +1,6 @@
 [submodule "college-proctor-server"]
 	path = college-proctor-server
 	url = https://github.com/flip360pranjit/college-proctor-server.git
+[submodule "college-proctor-client"]
+	path = college-proctor-client
+	url = https://github.com/flip360pranjit/college-proctor-client.git
