@@ -1,0 +1,8 @@
+POST http://localhost:4000/app/register
+Content-Type: application/json
+
+{
+    "fullName": "Candy Kakoti",
+    "username": "candu@sleep.com",
+    "password": "test123"
+}
